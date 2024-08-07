@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Cover",
+        "image": "https://i.imgur.com/imageA.jpg",
+        "price": 10.0,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Charger",
+        "image": "https://i.imgur.com/imageB.jpg",
+        "price": 15.0,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Phone",
+        "image": "https://i.imgur.com/imageC.jpg",
+        "price": 25.0,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "image": "https://i.imgur.com/imageD.jpg",
+        "price": 30.0,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Tablet",
+        "image": "https://i.imgur.com/imageF.jpg",
+        "price": 40.0,
+        "quantity": 1
+    }
+]
